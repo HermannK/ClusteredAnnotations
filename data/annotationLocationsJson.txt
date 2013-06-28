@@ -1,0 +1,1048 @@
+{
+  "annotations" : [
+    {
+      "number" : "159",
+      "postcode" : "70771",
+      "city" : "Leinfelden-Echterdingen Echterdingen",
+      "name" : "Item № 0",
+      "lon" : "9.16682 ",
+      "lat" : "48.69585",
+      "street" : "Hauptstraße"
+    },
+    {
+      "number" : "135",
+      "postcode" : "70771",
+      "city" : "Leinfelden-Echterdingen Echterdingen",
+      "name" : "Item № 1",
+      "lon" : " 9.16706 ",
+      "lat" : "48.69361",
+      "street" : "Hauptstraße"
+    },
+    {
+      "number" : "101",
+      "postcode" : "70771",
+      "city" : "Leinfelden-Echterdingen Leinfelden",
+      "name" : "Item № 2",
+      "lon" : "9.14274 ",
+      "lat" : "48.70878",
+      "street" : "Maybachstraße"
+    },
+    {
+      "number" : "151",
+      "postcode" : "70794",
+      "city" : "Filderstadt",
+      "name" : "Item № 3",
+      "lon" : " 9.21818 ",
+      "lat" : "48.68407",
+      "street" : "Plieninger Straße"
+    },
+    {
+      "number" : "100",
+      "postcode" : "70794",
+      "city" : "Filderstadt",
+      "name" : "Item № 4",
+      "lon" : "9.1931867 ",
+      "lat" : "48.6783104",
+      "street" : "Echterdinger Straße"
+    },
+    {
+      "number" : "50",
+      "postcode" : "70599",
+      "city" : "Stutgart",
+      "name" : "Item № 5",
+      "lon" : "9.2201148",
+      "lat" : "48.6989473",
+      "street" : "Neuhauser Straße"
+    },
+    {
+      "number" : "54",
+      "postcode" : "70599",
+      "city" : "Stutgart",
+      "name" : "Item № 6",
+      "lon" : "9.2201411",
+      "lat" : "48.6981691",
+      "street" : "Neuhauser Straße"
+    },
+    {
+      "number" : "2",
+      "postcode" : "73760",
+      "city" : "Ostfildern-Scharnhausen",
+      "name" : "Item № 7",
+      "lon" : "9.2480201",
+      "lat" : "48.7048419",
+      "street" : "Elly-Beinhorn-Straße"
+    },
+    {
+      "number" : "49",
+      "postcode" : "70794",
+      "city" : "Filderstadt Plattenhardt",
+      "name" : "Item № 8",
+      "lon" : "9.19790 ",
+      "lat" : "48.65950",
+      "street" : "Hohenheimer Straße"
+    },
+    {
+      "number" : "55",
+      "postcode" : "70794",
+      "city" : "Filderstadt Plattenhardt",
+      "name" : "Item № 9",
+      "lon" : "9.19590 ",
+      "lat" : "48.65819",
+      "street" : "Schillerstraße"
+    },
+    {
+      "number" : "132",
+      "postcode" : "70794",
+      "city" : "Filderstadt Bonlanden",
+      "name" : "Item № 10",
+      "lon" : "9.22219 ",
+      "lat" : "48.66009",
+      "street" : "Bonländer Hauptstraße"
+    },
+    {
+      "number" : "50-52",
+      "postcode" : "70794",
+      "city" : "Filderstadt Harthausen",
+      "name" : "Item № 11",
+      "lon" : "9.24644",
+      "lat" : "48.65149",
+      "street" : "Harthäuser Hauptstraße"
+    },
+    {
+      "number" : "124",
+      "postcode" : "70188",
+      "city" : "Stuttgart",
+      "name" : "Item № 12",
+      "lon" : "9.20055",
+      "lat" : "48.78113",
+      "street" : "Schwarenbergstraße"
+    },
+    {
+      "number" : "78",
+      "postcode" : "70180",
+      "city" : "Stuttgart",
+      "name" : "Item № 14",
+      "lon" : "9.17723",
+      "lat" : "48.76120",
+      "street" : "Immenhofer Straße"
+    },
+    {
+      "number" : "9",
+      "postcode" : "70176",
+      "city" : "Stuttgart",
+      "name" : "Item № 15",
+      "lon" : "9.15818",
+      "lat" : "48.77485",
+      "street" : "Bebelstraße"
+    },
+    {
+      "number" : "8",
+      "postcode" : "72070",
+      "city" : "Tübingen",
+      "name" : "Item № 16",
+      "lon" : "9.04747",
+      "lat" : "48.52284",
+      "street" : "Westbahnhofstraße"
+    },
+    {
+      "number" : "28",
+      "postcode" : "72070",
+      "city" : "Tübingen",
+      "name" : "Item № 17",
+      "lon" : "9.03960",
+      "lat" : "48.52348",
+      "street" : "Rheinlandstraße"
+    },
+    {
+      "number" : "101",
+      "postcode" : "72074",
+      "city" : "Tübingen",
+      "name" : "Item № 18",
+      "lon" : "9.06926",
+      "lat" : "48.53039",
+      "street" : "Wilhelmstraße"
+    },
+    {
+      "number" : "4",
+      "postcode" : "71083",
+      "city" : "Herrenberg",
+      "name" : "Item № 19",
+      "lon" : "8.87198",
+      "lat" : "48.59974",
+      "street" : "Affstätter Tal"
+    },
+    {
+      "number" : "71",
+      "postcode" : "71083",
+      "city" : "Herrenberg",
+      "name" : "Item № 20",
+      "lon" : "8.87733",
+      "lat" : "48.59178",
+      "street" : "Tübinger Straße"
+    },
+    {
+      "number" : "38",
+      "postcode" : "71229",
+      "city" : "Leonberg",
+      "name" : "Item № 21",
+      "lon" : "9.01094",
+      "lat" : "48.79165",
+      "street" : "Leonberger Straße"
+    },
+    {
+      "number" : "70",
+      "postcode" : "71638",
+      "city" : "Ludwigsburg",
+      "name" : "Item № 22",
+      "lon" : "9.19458",
+      "lat" : "48.88816",
+      "street" : "Stuttgarter Straße"
+    },
+    {
+      "number" : "22-24",
+      "postcode" : "71634",
+      "city" : "Ludwigsburg",
+      "name" : "Item № 23",
+      "lon" : "9.19071",
+      "lat" : "48.90228",
+      "street" : "Heilbronner Straße"
+    },
+    {
+      "number" : "101",
+      "postcode" : "71642",
+      "city" : "Ludwigsburg",
+      "name" : "Item № 24",
+      "lon" : "9.20844",
+      "lat" : "48.90371",
+      "street" : "Marbacher Straße"
+    },
+    {
+      "number" : "11",
+      "postcode" : "71636",
+      "city" : "Ludwigsburg",
+      "name" : "Item № 25",
+      "lon" : "9.18035",
+      "lat" : "48.89634",
+      "street" : "Martin-Luther Straße"
+    },
+    {
+      "number" : "1 B",
+      "postcode" : "76133",
+      "city" : "Karlsruhe",
+      "name" : "Item № 26",
+      "lon" : "8.38728",
+      "lat" : "49.00495",
+      "street" : "Brauerstraße"
+    },
+    {
+      "number" : "102 A",
+      "postcode" : "76149",
+      "city" : "Karlsruhe",
+      "name" : "Item № 27",
+      "lon" : "8.39547",
+      "lat" : "49.03358",
+      "street" : "Linkenheimer Landstraße"
+    },
+    {
+      "number" : "30 A",
+      "postcode" : "76131",
+      "city" : "Karlsruhe",
+      "name" : "Item № 28",
+      "lon" : "8.42888",
+      "lat" : "49.01318",
+      "street" : "Haid-Und-Neu-Straße"
+    },
+    {
+      "number" : "2",
+      "postcode" : "89073",
+      "city" : "Ulm",
+      "name" : "Item № 29",
+      "lon" : "9.99404",
+      "lat" : "48.40239",
+      "street" : "Keplerstraße"
+    },
+    {
+      "number" : "101",
+      "postcode" : "89077",
+      "city" : "Ulm",
+      "name" : "Item № 30",
+      "lon" : "9.95565",
+      "lat" : "48.40097",
+      "street" : "Blaubeurer Straße"
+    },
+    {
+      "number" : "11",
+      "postcode" : "89081",
+      "city" : "Ulm",
+      "name" : "Item № 31",
+      "lon" : "9.97106",
+      "lat" : "48.43652",
+      "street" : "Junginger Straße"
+    },
+    {
+      "number" : "5",
+      "postcode" : "89081",
+      "city" : "Augsburg",
+      "name" : "Item № 32",
+      "lon" : "10.91373",
+      "lat" : "48.37776",
+      "street" : "Schillerstraße"
+    },
+    {
+      "number" : "1-3",
+      "postcode" : "86199",
+      "city" : "Augsburg",
+      "name" : "Item № 33",
+      "lon" : "10.88618",
+      "lat" : "48.34279",
+      "street" : "Berguisstraße"
+    },
+    {
+      "number" : "32",
+      "postcode" : "88400",
+      "city" : "Biberach",
+      "name" : "Item № 34",
+      "lon" : "9.80063",
+      "lat" : "48.08409",
+      "street" : "Leipzigstraße"
+    },
+    {
+      "number" : "52",
+      "postcode" : "88400",
+      "city" : "Biberach",
+      "name" : "Item № 35",
+      "lon" : "9.80306",
+      "lat" : "48.11123",
+      "street" : "Sandgrabenstraße"
+    },
+    {
+      "number" : "33",
+      "postcode" : "70567",
+      "city" : "Möhringen",
+      "name" : "Item № 36",
+      "lon" : "9.14625",
+      "lat" : "48.72323",
+      "street" : "Hechinger Straße"
+    },
+    {
+      "number" : "7",
+      "postcode" : "70567",
+      "city" : "Möhringen",
+      "name" : "Item № 37",
+      "lon" : "9.16608",
+      "lat" : "48.71483",
+      "street" : "Schelmenwasen Straße"
+    },
+    {
+      "number" : "78",
+      "postcode" : "70565",
+      "city" : "Möhringen",
+      "name" : "Item № 38",
+      "lon" : "9.12386",
+      "lat" : "48.72780",
+      "street" : "Am Wallgraben"
+    },
+    {
+      "number" : "136",
+      "postcode" : "70565",
+      "city" : "Vaihingen",
+      "name" : "Item № 39",
+      "lon" : "9.09816",
+      "lat" : "48.73085",
+      "street" : "Hauptstraße"
+    },
+    {
+      "number" : "58",
+      "postcode" : "70565",
+      "city" : "Vaihingen",
+      "name" : "Item № 40",
+      "lon" : "9.12589",
+      "lat" : "48.72336",
+      "street" : "Industriestraße"
+    },
+    {
+      "number" : "122",
+      "postcode" : "70199",
+      "city" : "Stuttgart",
+      "name" : "Item № 41",
+      "lon" : "9.14222",
+      "lat" : "48.75551",
+      "street" : "Burgtallstraße"
+    },
+    {
+      "number" : "55",
+      "postcode" : "70199",
+      "city" : "Stuttgart",
+      "name" : "Item № 42",
+      "lon" : "9.16930",
+      "lat" : "48.74413",
+      "street" : "Epplestraße"
+    },
+    {
+      "number" : "18",
+      "postcode" : "70199",
+      "city" : "Stuttgart",
+      "name" : "Item № 43",
+      "lon" : "9.15937",
+      "lat" : "48.75943",
+      "street" : "Karl-Kloss-Straße"
+    },
+    {
+      "number" : "146",
+      "postcode" : "70197",
+      "city" : "Stuttgart",
+      "name" : "Item № 44",
+      "lon" : "9.14775",
+      "lat" : "48.76742",
+      "street" : "Rotenwaldstraße"
+    },
+    {
+      "number" : "41",
+      "postcode" : "70597",
+      "city" : "Stuttgart",
+      "name" : "Item № 45",
+      "lon" : "9.17192",
+      "lat" : "48.75378",
+      "street" : "Obere Weinsteige"
+    },
+    {
+      "number" : "45",
+      "postcode" : "70195",
+      "city" : "Stuttgart",
+      "name" : "Item № 46",
+      "lon" : "9.13060",
+      "lat" : "48.77957",
+      "street" : "Regerstraße"
+    },
+    {
+      "number" : "7",
+      "postcode" : "70193",
+      "city" : "Stuttgart",
+      "name" : "Item № 49",
+      "lon" : "9.14880",
+      "lat" : "48.78163",
+      "street" : "Rosenbergplatz"
+    },
+    {
+      "number" : "70",
+      "postcode" : "70629",
+      "city" : "Stuttgart",
+      "name" : "Item № 50",
+      "lon" : "9.19393",
+      "lat" : "48.69216",
+      "street" : "Flughafenstraße"
+    },
+    {
+      "number" : "71",
+      "postcode" : "70599",
+      "city" : "Stuttgart",
+      "name" : "Item № 51",
+      "lon" : "9.21558",
+      "lat" : "48.70014",
+      "street" : "Bernhauser Straße"
+    },
+    {
+      "number" : "1",
+      "postcode" : "70499",
+      "city" : "Stuttgart",
+      "name" : "Item № 52",
+      "lon" : "9.08633",
+      "lat" : "48.80307",
+      "street" : "Rappachstraße"
+    },
+    {
+      "number" : "128",
+      "postcode" : "70619",
+      "city" : "Stuttgart",
+      "name" : "Item № 53",
+      "lon" : "9.22718",
+      "lat" : "48.74061",
+      "street" : "Bockelstraße"
+    },
+    {
+      "number" : "92",
+      "postcode" : "70599",
+      "city" : "Stuttgart",
+      "name" : "Item № 57",
+      "lon" : "9.18166",
+      "lat" : "48.79324",
+      "street" : "Heilbronner Straße"
+    },
+    {
+      "number" : "64",
+      "postcode" : "70469",
+      "city" : "Stuttgart",
+      "name" : "Item № 58",
+      "lon" : "9.15486",
+      "lat" : "48.80431",
+      "street" : "Feuerbacher-Tal-Straße"
+    },
+    {
+      "number" : "123",
+      "postcode" : "70188",
+      "city" : "Stuttgart",
+      "name" : "Item № 59",
+      "lon" : "9.20926",
+      "lat" : "48.78217",
+      "street" : "Klingenstraße"
+    },
+    {
+      "number" : "207",
+      "postcode" : "70499",
+      "city" : "Stuttgart",
+      "name" : "Item № 60",
+      "lon" : "9.11075",
+      "lat" : "48.81292",
+      "street" : "Solitudestraße"
+    },
+    {
+      "number" : "28",
+      "postcode" : "70499",
+      "city" : "Stuttgart",
+      "name" : "Item № 61",
+      "lon" : "9.21082",
+      "lat" : "48.78283",
+      "street" : "Talstraße"
+    },
+    {
+      "number" : "261",
+      "postcode" : "70499",
+      "city" : "Stuttgart",
+      "name" : "Item № 62",
+      "lon" : "9.12432",
+      "lat" : "48.81430",
+      "street" : "Pforzheimer Straße"
+    },
+    {
+      "number" : "206",
+      "postcode" : "70188",
+      "city" : "Stuttgart",
+      "name" : "Item № 63",
+      "lon" : "9.23047",
+      "lat" : "48.77886",
+      "street" : "Ulmer Straße"
+    },
+    {
+      "number" : "46",
+      "postcode" : "70469",
+      "city" : "Stuttgart",
+      "name" : "Item № 64",
+      "lon" : "9.17664",
+      "lat" : "48.81138",
+      "street" : "Siemenstraße"
+    },
+    {
+      "number" : "2",
+      "postcode" : "70469",
+      "city" : "Stuttgart",
+      "name" : "Item № 65",
+      "lon" : "9.16734",
+      "lat" : "48.81694",
+      "street" : "Vera-Vollmer-Straße"
+    },
+    {
+      "number" : "330",
+      "postcode" : "70469",
+      "city" : "Stuttgart",
+      "name" : "Item № 66",
+      "lon" : "9.17698",
+      "lat" : "48.81714",
+      "street" : "Heilbronner Straße"
+    },
+    {
+      "number" : "41",
+      "postcode" : "70372",
+      "city" : "Stuttgart",
+      "name" : "Item № 67",
+      "lon" : "9.22198",
+      "lat" : "48.79606",
+      "street" : "Mercedesstraße"
+    },
+    {
+      "number" : "16",
+      "postcode" : "70435",
+      "city" : "Stuttgart",
+      "name" : "Item № 68",
+      "lon" : "9.15860",
+      "lat" : "48.83153",
+      "street" : "Strohgauetraße"
+    },
+    {
+      "number" : "9",
+      "postcode" : "70374",
+      "city" : "Stuttgart",
+      "name" : "Item № 69",
+      "lon" : "9.23232",
+      "lat" : "48.80589",
+      "street" : "Nuernberger Straße"
+    },
+    {
+      "number" : "51",
+      "postcode" : "70437",
+      "city" : "Stuttgart",
+      "name" : "Item № 70",
+      "lon" : "9.18772",
+      "lat" : "48.82965",
+      "street" : "Schozacherstraße"
+    },
+    {
+      "number" : "15",
+      "postcode" : "70437",
+      "city" : "Stuttgart",
+      "name" : "Item № 71",
+      "lon" : "9.18051",
+      "lat" : "48.83381",
+      "street" : "Rotweg"
+    },
+    {
+      "number" : "28-32",
+      "postcode" : "70437",
+      "city" : "Stuttgart",
+      "name" : "Item № 72",
+      "lon" : "9.18271",
+      "lat" : "48.83366",
+      "street" : "Rotweg"
+    },
+    {
+      "number" : "83",
+      "postcode" : "73728",
+      "city" : "Esslingen",
+      "name" : "Item № 73",
+      "lon" : "9.32947",
+      "lat" : "48.73014",
+      "street" : "Ulmer Straße"
+    },
+    {
+      "number" : "18",
+      "postcode" : "73734",
+      "city" : "Esslingen",
+      "name" : "Item № 74",
+      "lon" : "9.29787",
+      "lat" : "48.73627",
+      "street" : "Stuttgarter Straße"
+    },
+    {
+      "number" : "24",
+      "postcode" : "73770",
+      "city" : "Denkendorf",
+      "name" : "Item № 75",
+      "lon" : "9.32755",
+      "lat" : "48.69416",
+      "street" : "Deizisauer Straße"
+    },
+    {
+      "number" : "65",
+      "postcode" : "73728",
+      "city" : "Esslingen",
+      "name" : "Item № 77",
+      "lon" : "9.32046",
+      "lat" : "48.73943",
+      "street" : "Urbanstraße"
+    },
+    {
+      "number" : "23",
+      "postcode" : "73257",
+      "city" : "Koengen",
+      "name" : "Item № 78",
+      "lon" : "9.36731",
+      "lat" : "48.67762",
+      "street" : "Bahnhofstraße"
+    },
+    {
+      "number" : "3",
+      "postcode" : "73760",
+      "city" : "Ostfildern",
+      "name" : "Item № 79",
+      "lon" : "9.30803",
+      "lat" : "48.71357",
+      "street" : "Felix-Wankel-Straße"
+    },
+    {
+      "number" : "2",
+      "postcode" : "73240",
+      "city" : "Wendlingen",
+      "name" : "Item № 80",
+      "lon" : "9.37188",
+      "lat" : "48.67439",
+      "street" : "Heinrich-Otto-Straße"
+    },
+    {
+      "number" : "22",
+      "postcode" : "71034",
+      "city" : "Boeblingen",
+      "name" : "Item № 81",
+      "lon" : "9.00912",
+      "lat" : "48.68812",
+      "street" : "Wolfgang-Brumme-Allee"
+    },
+    {
+      "number" : "10",
+      "postcode" : "71065",
+      "city" : "Sindelfingen",
+      "name" : "Item № 82",
+      "lon" : "9.00912",
+      "lat" : "48.70345",
+      "street" : "Neckarstraße"
+    },
+    {
+      "number" : "10",
+      "postcode" : "71067",
+      "city" : "Sindelfingen",
+      "name" : "Item № 83",
+      "lon" : "9.00329",
+      "lat" : "48.72143",
+      "street" : "Pfarrwiesenallee"
+    },
+    {
+      "number" : "30",
+      "postcode" : "71101",
+      "city" : "Schoenaich",
+      "name" : "Item № 84",
+      "lon" : "9.06131",
+      "lat" : "48.65954",
+      "street" : "Steinenbronnerstraße"
+    },
+    {
+      "number" : "61",
+      "postcode" : "71032",
+      "city" : "Boeblingen",
+      "name" : "Item № 85",
+      "lon" : "9.05520",
+      "lat" : "48.68024",
+      "street" : "Tübinger Straße"
+    },
+    {
+      "number" : "97",
+      "postcode" : "71065",
+      "city" : "Sindelfingen",
+      "name" : "Item № 86",
+      "lon" : "9.03145",
+      "lat" : "48.70725",
+      "street" : "Mahdentalstraße"
+    },
+    {
+      "number" : "240",
+      "postcode" : "71067",
+      "city" : "Sindelfingen",
+      "name" : "Item № 87",
+      "lon" : "9.01216",
+      "lat" : "48.72558",
+      "street" : "Sommerhofenstraße"
+    },
+    {
+      "number" : "1",
+      "postcode" : "71069",
+      "city" : "Sindelfingen",
+      "name" : "Item № 88",
+      "lon" : "8.97166",
+      "lat" : "48.71602",
+      "street" : "Danziger Straße"
+    },
+    {
+      "number" : "11",
+      "postcode" : "71101",
+      "city" : "Schoenaich",
+      "name" : "Item № 89",
+      "lon" : "9.07212",
+      "lat" : "48.66936",
+      "street" : "Gutenbergstraße"
+    },
+    {
+      "number" : "2",
+      "postcode" : "71139",
+      "city" : "Ehningen",
+      "name" : "Item № 90",
+      "lon" : "8.95530",
+      "lat" : "48.66294",
+      "street" : "Bernrain-Sued"
+    },
+    {
+      "number" : "57",
+      "postcode" : "71272",
+      "city" : "Renningen",
+      "name" : "Item № 91",
+      "lon" : "8.93440",
+      "lat" : "48.77166",
+      "street" : "Weil-der-Staedter-Straße"
+    },
+    {
+      "number" : "9",
+      "postcode" : "71272",
+      "city" : "Renningen",
+      "name" : "Item № 92",
+      "lon" : "8.93041",
+      "lat" : "48.78069",
+      "street" : "Dornierstraße"
+    },
+    {
+      "number" : "56",
+      "postcode" : "71277",
+      "city" : "Rutesheim",
+      "name" : "Item № 93",
+      "lon" : "8.93188",
+      "lat" : "48.78809",
+      "street" : "Leonbergerstraße"
+    },
+    {
+      "number" : "2",
+      "postcode" : "71277",
+      "city" : "Rutesheim",
+      "name" : "Item № 94",
+      "lon" : "8.92720",
+      "lat" : "48.81083",
+      "street" : "Margarete-Steiff-Straße"
+    },
+    {
+      "number" : "18",
+      "postcode" : "71069",
+      "city" : "Sindelfingen",
+      "name" : "Item № 95",
+      "lon" : "8.96505",
+      "lat" : "48.71842",
+      "street" : "Berliner Straße"
+    },
+    {
+      "number" : "46",
+      "postcode" : "71229",
+      "city" : "Leonberg",
+      "name" : "Item № 96",
+      "lon" : "9.00580",
+      "lat" : "48.78411",
+      "street" : "Bruckenbacgstraße"
+    },
+    {
+      "number" : "51",
+      "postcode" : "71263",
+      "city" : "Weil der Stadt",
+      "name" : "Item № 97",
+      "lon" : "8.85450",
+      "lat" : "48.76391",
+      "street" : "Hauptstraße"
+    },
+    {
+      "number" : "2",
+      "postcode" : "71263",
+      "city" : "Weil der Stadt",
+      "name" : "Item № 99",
+      "lon" : "8.86689",
+      "lat" : "48.74792",
+      "street" : "Grabenstraße"
+    },
+    {
+      "number" : "61",
+      "postcode" : "73760",
+      "city" : "Ostfildern",
+      "name" : "Item № 100",
+      "lon" : "9.24506",
+      "lat" : "48.73172",
+      "street" : "Stuttgarter Straße"
+    },
+    {
+      "number" : "187",
+      "postcode" : "71642",
+      "city" : "Ludwigsburg",
+      "name" : "Item № 103",
+      "lon" : "9.21623",
+      "lat" : "48.90678",
+      "street" : "Marbacher Straße"
+    },
+    {
+      "number" : "133",
+      "postcode" : "71636",
+      "city" : "Ludwigsburg",
+      "name" : "Item № 104",
+      "lon" : "9.16074",
+      "lat" : "48.88964",
+      "street" : "Schwieberdinger Straße"
+    },
+    {
+      "number" : "12",
+      "postcode" : "71636",
+      "city" : "Ludwigsburg",
+      "name" : "Item № 106",
+      "lon" : "9.16563",
+      "lat" : "48.88792",
+      "street" : "Steinbeissstraße"
+    },
+    {
+      "number" : "11",
+      "postcode" : "71636",
+      "city" : "Ludwigsburg",
+      "name" : "Item № 107",
+      "lon" : "9.15981",
+      "lat" : "48.88470",
+      "street" : "Martin-Luther-Straße"
+    },
+    {
+      "number" : "93",
+      "postcode" : "71691",
+      "city" : "Freiberg",
+      "name" : "Item № 109",
+      "lon" : "9.20245",
+      "lat" : "48.92895",
+      "street" : "Ludwigsburger Straße"
+    },
+    {
+      "number" : "85",
+      "postcode" : "71679",
+      "city" : "Asperg",
+      "name" : "Item № 110",
+      "lon" : "9.14490",
+      "lat" : "48.90495",
+      "street" : "Eglosheimer Straße"
+    },
+    {
+      "number" : "136",
+      "postcode" : "70734",
+      "city" : "Fellbach",
+      "name" : "Item № 111",
+      "lon" : "9.26883",
+      "lat" : "48.80450",
+      "street" : "Esslinger Straße"
+    },
+    {
+      "number" : "37",
+      "postcode" : "70736",
+      "city" : "Fellbach",
+      "name" : "Item № 112",
+      "lon" : "9.28037",
+      "lat" : "48.81561",
+      "street" : "Schorndorfer Straße"
+    },
+    {
+      "number" : "33",
+      "postcode" : "70736",
+      "city" : "Fellbach",
+      "name" : "Item № 113",
+      "lon" : "9.25969",
+      "lat" : "48.81450",
+      "street" : "Erich-Herion Straße"
+    },
+    {
+      "number" : "25",
+      "postcode" : "70736",
+      "city" : "Fellbach",
+      "name" : "Item № 114",
+      "lon" : "9.28536",
+      "lat" : "48.82214",
+      "street" : "Ohmstraße"
+    },
+    {
+      "number" : "17",
+      "postcode" : "70736",
+      "city" : "Fellbach",
+      "name" : "Item № 115",
+      "lon" : "9.26092",
+      "lat" : "48.83134",
+      "street" : "Gotthilf-Bayh-Straße"
+    },
+    {
+      "number" : "5",
+      "postcode" : "71332",
+      "city" : "Waiblingen",
+      "name" : "Item № 117",
+      "lon" : "9.30682",
+      "lat" : "48.82213",
+      "street" : "Westtangente"
+    },
+    {
+      "number" : "19",
+      "postcode" : "71394",
+      "city" : "Kernen",
+      "name" : "Item № 118",
+      "lon" : "9.31569",
+      "lat" : "48.80851",
+      "street" : "Fellbacher Straße"
+    },
+    {
+      "number" : "73",
+      "postcode" : "71332",
+      "city" : "Waiblingen",
+      "name" : "Item № 119",
+      "lon" : "9.30935",
+      "lat" : "48.82527",
+      "street" : "Mayenner Straße"
+    },
+    {
+      "number" : "300",
+      "postcode" : "71376",
+      "city" : "Stuttgart",
+      "name" : "Item № 120",
+      "lon" : "9.22697",
+      "lat" : "48.81907",
+      "street" : "Neckartalstraße"
+    },
+    {
+      "number" : "17",
+      "postcode" : "73207",
+      "city" : "Plochingen",
+      "name" : "Item № 121",
+      "lon" : "9.42390",
+      "lat" : "48.70644",
+      "street" : "Ulmer Straße"
+    },
+    {
+      "number" : "57",
+      "postcode" : "73207",
+      "city" : "Plochingen",
+      "name" : "Item № 122",
+      "lon" : "9.41365",
+      "lat" : "48.71577",
+      "street" : "Esslinger Straße"
+    },
+    {
+      "number" : "82",
+      "postcode" : "73262",
+      "city" : "Reichenbach",
+      "name" : "Item № 123",
+      "lon" : "9.45279",
+      "lat" : "48.70796",
+      "street" : "Stuttgarter Straße"
+    },
+    {
+      "number" : "5",
+      "postcode" : "73799",
+      "city" : "Deizisau",
+      "name" : "Item № 124",
+      "lon" : "9.37726",
+      "lat" : "48.71503",
+      "street" : "Seewiesenweg"
+    },
+    {
+      "number" : "5",
+      "postcode" : "73249",
+      "city" : "Wernau",
+      "name" : "Item № 125",
+      "lon" : "9.42170",
+      "lat" : "48.68210",
+      "street" : "max-Eyth-Straße"
+    },
+    {
+      "number" : "8",
+      "postcode" : "73269",
+      "city" : "Hochdorf",
+      "name" : "Item № 126",
+      "lon" : "9.46221",
+      "lat" : "48.69474",
+      "street" : "Plochinger Straße"
+    },
+    {
+      "number" : "21",
+      "postcode" : "73257",
+      "city" : "Koengen",
+      "name" : "Item № 127",
+      "lon" : "9.36989",
+      "lat" : "48.68229",
+      "street" : "Plochinger Straße"
+    },
+    {
+      "number" : "8",
+      "postcode" : "73773",
+      "city" : "Aichwald",
+      "name" : "Item № 128",
+      "lon" : "9.39062",
+      "lat" : "48.74790",
+      "street" : "Remstalstraße"
+    },
+  ]
+}
